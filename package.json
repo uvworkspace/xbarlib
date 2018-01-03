@@ -1,0 +1,12 @@
+{
+  "name": "xbarlib",
+  "version": "0.0.1",
+  "description": "Some xbar javascript utilities",
+  "main": "index.js",
+  "repository": "https://github.com/uvworkspace/xbarlib",
+  "author": "uvworkspace <uvw@mytraces.net>",
+  "license": "MIT",
+  "dependencies": {
+    "uvwlib": "^0.0.2"
+  }
+}
